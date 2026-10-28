@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 1, "name": "Asha Rao", "email": "asha@example.com", "password": "Passw0rd!" }
+  ],
+  "products": [
+    { "id": 1, "name": "Wireless Headphones", "price": 2499, "image": "https://picsum.photos/seed/p1/300/200", "quantity": 10 },
+    { "id": 2, "name": "Smart Watch", "price": 4999, "image": "https://picsum.photos/seed/p2/300/200", "quantity": 0 },
+    { "id": 3, "name": "Bluetooth Speaker", "price": 1799, "image": "https://picsum.photos/seed/p3/300/200", "quantity": 25 }
+  ],
+  "orders": []
+}
